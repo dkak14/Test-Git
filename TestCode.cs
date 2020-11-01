@@ -10,4 +10,8 @@ using System
         b=1;
         c = a +b;
     }
+    void asd()
+    {
+        c = 0;
+    }
 }
